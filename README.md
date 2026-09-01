@@ -1,13 +1,12 @@
-**# 📊 Dashboard de People Analytics - Análise de Absenteísmo
+# 📊 Dashboard de People Analytics - Análise de Absenteísmo
 
 Projeto de Business Intelligence criado para praticar SQL, Power BI e DAX em um cenário de People Analytics.
 O objetivo foi analisar dados de presença de 250 colaboradores e transformar essas informações em indicadores de faltas, horas perdidas e custo do absenteísmo.
 
 ## 🚀 Tecnologias utilizadas
 - Power BI
-- MySQL
 - SQL
-- DAX
+
 
 ## 📌 Perguntas respondidas com SQL
 
@@ -74,4 +73,4 @@ A consulta soma todas as horas perdidas por equipe.
 - 8,60% de taxa de absenteísmo.
 
 ## 🎯 Próxima etapa
-Com essas consultas prontas, os dados foram levados para o Power BI, onde criei um dashboard com KPIs, gráficos e filtros para facilitar a análise dos indicadores.**
+Com essas consultas prontas, os dados foram levados para o Power BI, onde criei um dashboard com KPIs, gráficos e filtros para facilitar a análise dos indicadores.

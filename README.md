@@ -17,7 +17,7 @@ O objetivo foi analisar dados de presença de 250 colaboradores e transformar es
 
 A consulta conta quantos colaboradores existem em cada equipe.
 
-![Desf 1 - Equipe com mais colaboradores](images/sql/desf_1_equipe_mais_colaboradores.png)
+![Desf 1 - Equipe com mais colaboradores](images/sql_01_total_faltas.png)
 
 **O que descobri**
 

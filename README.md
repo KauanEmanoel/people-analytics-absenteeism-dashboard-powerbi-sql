@@ -5,7 +5,9 @@ O objetivo foi analisar dados de presença de 250 colaboradores e transformar es
 
 ## 🚀 Tecnologias utilizadas
 - Power BI
-- SQL
+- MySQL Workbench - Banco de Dados 
+- PopSQL - editor do Banco de Dados
+- Chat GPT para criação do Dataset fictício para o MySQL. (Houve criação e modelagem de dados dentro do MySQL Workbench)
 
 ---
 

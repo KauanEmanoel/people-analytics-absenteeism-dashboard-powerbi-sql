@@ -1,6 +1,6 @@
 # 📊 Dashboard de People Analytics - Análise de Absenteísmo
 
-Projeto de Business Intelligence criado para praticar **SQL, MySQL & Power BI ** em um cenário de **People Analytics**.
+Projeto de Business Intelligence criado para praticar **SQL, MySQL & Power BI** em um cenário de **People Analytics**.
 
 O projeto simula uma empresa fictícia chamada **TechNordeste Distribuidora**, uma distribuidora de tecnologia que possui **250 colaboradores** divididos entre as equipes de Operações, Dados, Marketing, RH, Financeiro e Suporte.
 
@@ -20,10 +20,10 @@ Neste cenário, a área de RH precisa acompanhar indicadores de absenteísmo par
 
 ## 🚀 Tecnologias utilizadas
 
-* Power BI.
-* MySQL para modelagem e criação do banco de dados.
-* SQL para realizar consultas, acho o desigh mais intuitivo que o Workberch.
-* ChatGPT para geração do dataset fictício utilizado no projeto.
+**Power BI**.
+**MySQL** para modelagem e criação do banco de dados.
+**PopSQL** para realizar consultas, acho o desigh mais intuitivo que o Workberch.
+**ChatGPT** para geração do dataset fictício utilizado no projeto.
 
 ---
 

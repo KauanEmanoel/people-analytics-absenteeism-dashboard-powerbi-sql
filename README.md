@@ -12,6 +12,8 @@ O objetivo foi analisar dados de presença de 250 colaboradores e transformar es
 ### Dashboard People Analytics 
 ![Dashboard de People Analytics](./dashboard-completo.png)
 
+---
+
 
 ## 📌 Perguntas respondidas com SQL
 

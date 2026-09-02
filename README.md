@@ -1,17 +1,37 @@
 # 📊 Dashboard de People Analytics - Análise de Absenteísmo
 
-Projeto de Business Intelligence criado para praticar SQL, Power BI e DAX em um cenário de People Analytics.
-O objetivo foi analisar dados de presença de 250 colaboradores e transformar essas informações em indicadores de faltas, horas perdidas e custo do absenteísmo.
+Projeto de Business Intelligence criado para praticar **SQL, MySQL, Power BI e DAX** em um cenário de **People Analytics**.
+
+O projeto simula uma empresa fictícia chamada **TechNordeste Distribuidora**, uma distribuidora de tecnologia que possui **250 colaboradores** divididos entre as equipes de Operações, Dados, Marketing, RH, Financeiro e Suporte.
+
+O desafio foi analisar os registros de presença dos colaboradores para entender **onde o absenteísmo gera maior impacto**, quais equipes concentram mais faltas, quantas horas de trabalho foram perdidas e qual o custo estimado desse problema para a empresa.
+
+## 🏢 Contexto da empresa fictícia
+
+**Empresa:** TechNordeste Distribuidora
+
+**Segmento:** Distribuição de produtos de tecnologia e eletrônicos.
+
+**Quantidade de colaboradores:** 250 funcionários.
+
+**Período analisado:** Julho de 2026.
+
+Neste cenário, a área de RH precisa acompanhar indicadores de absenteísmo para apoiar decisões sobre produtividade, equipes com maior impacto e custos relacionados às faltas dos colaboradores.
 
 ## 🚀 Tecnologias utilizadas
-- Power BI
-- MySQL Workbench - Banco de Dados 
-- PopSQL - editor do Banco de Dados
-- Chat GPT - para criação do Dataset fictício para o MySQL. (Houve criação e modelagem de dados dentro do MySQL Workbench)
+
+* Power BI.
+* MySQL para modelagem e criação do banco de dados.
+* SQL para realizar consultas, acho o desigh mais intuitivo que o Workberch.
+* ChatGPT para geração do dataset fictício utilizado no projeto.
 
 ---
 
-### Dashboard People Analytics 
+## 🖥️ Dashboard de People Analytics
+![Dashboard de People Analytics](./dashboard-completo.png)
+
+O dashboard reúne os principais indicadores de absenteísmo da empresa em uma única visão, permitindo acompanhar custos, horas perdidas, equipes mais impactadas e padrões de faltas.
+
 ![Dashboard de People Analytics](./dashboard-completo.png)
 
 ## 💡 Principais insights da análise

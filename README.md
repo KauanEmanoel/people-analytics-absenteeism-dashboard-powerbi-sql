@@ -12,6 +12,83 @@ O objetivo foi analisar dados de presença de 250 colaboradores e transformar es
 ### Dashboard People Analytics 
 ![Dashboard de People Analytics](./dashboard-completo.png)
 
+## 💡 Principais insights da análise
+
+A partir das consultas SQL e do dashboard no Power BI, foi possível identificar alguns padrões de absenteísmo durante o período analisado.
+
+### 📍 Operações concentrou o maior impacto no absenteísmo
+
+* É a maior equipe da empresa, com **69 colaboradores**.
+* Também registrou o maior número de faltas (**115**).
+* Acumulou **2.069 horas perdidas**, o maior valor entre todas as equipes.
+* O custo estimado do absenteísmo da equipe foi de aproximadamente **R$ 33 mil**.
+
+**Insight:** Operações merece maior atenção, pois concentra o maior impacto financeiro e operacional.
+
+---
+
+### 📍 Dados apresentou a maior taxa de faltas
+
+Mesmo não sendo a maior equipe, Dados teve a maior taxa de faltas da análise.
+
+* **79 faltas registradas.**
+* **37 colaboradores.**
+* **Maior taxa de faltas entre todas as equipes.**
+
+**Insight:** A equipe de Dados possui um absenteísmo proporcionalmente maior que as demais equipes.
+
+---
+
+### 📍 O custo do absenteísmo ultrapassou R$ 134 mil
+
+O projeto estimou o impacto financeiro das horas não trabalhadas considerando o salário médio dos colaboradores.
+
+* **R$ 134.879** de custo estimado.
+* **7.570 horas** de trabalho perdidas.
+
+**Insight:** O absenteísmo gera um impacto financeiro relevante e pode afetar produtividade e custos da empresa.
+
+---
+
+### 📍 O modelo híbrido concentrou a maior parte das faltas
+
+A análise por modelo de trabalho mostrou uma distribuição diferente entre as modalidades.
+
+* 🟢 Híbrido: **45%**
+* 🔵 Presencial: **31%**
+* 🟣 Remoto: **24%**
+
+**Insight:** Colaboradores em modelo híbrido concentraram a maior participação nas faltas registradas.
+
+---
+
+### 📍 Alguns colaboradores concentraram muitas horas perdidas
+
+O ranking dos colaboradores mostrou quem acumulou mais horas não trabalhadas.
+
+| Colaborador      | Horas perdidas |
+| :--------------- | -------------: |
+| Bianca Gomes     |       **75 h** |
+| Débora Pereira   |       **64 h** |
+| Tomás Nascimento |       **64 h** |
+
+**Insight:** O ranking ajuda a identificar colaboradores que podem precisar de acompanhamento mais próximo.
+
+---
+
+### 📍 Visão geral do período analisado
+
+| Indicador                   |      Resultado |
+| :-------------------------- | -------------: |
+| 👥 Colaboradores analisados |        **250** |
+| ❌ Total de faltas           |        **450** |
+| ⏱️ Horas perdidas           |      **7.570** |
+| 💸 Custo do absenteísmo     | **R$ 134.879** |
+| 📊 Taxa de absenteísmo      |      **8,60%** |
+
+**Resumo:** O dashboard mostra onde o absenteísmo teve maior impacto, quais equipes foram mais afetadas e qual foi o custo estimado para a empresa durante o período analisado.
+
+
 ---
 
 

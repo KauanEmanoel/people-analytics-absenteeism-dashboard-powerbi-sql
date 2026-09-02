@@ -24,7 +24,7 @@ A consulta conta quantos colaboradores existem em cada equipe.
 ### 2. Qual equipe teve mais faltas?
 A consulta soma todos os registros de falta por equipe.
 
-![Desf 2 - Equipe com mais faltas](./faltas-equipe.png)
+![Desafio 2 - Equipe com mais faltas](./faltas-equipe.png)
 
 **O que descobri**
 - Operações teve o maior número de faltas (115).

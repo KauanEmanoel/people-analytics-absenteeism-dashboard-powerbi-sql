@@ -13,7 +13,7 @@ O objetivo foi analisar dados de presença de 250 colaboradores e transformar es
 ### 1. Qual equipe possui mais funcionários?
 A consulta conta quantos colaboradores existem em cada equipe.
 
-![Desf 1 - Equipe com mais funcionários](images/sql_01_total_funcionarios.png)
+![Desf 1 - Equipe com mais funcionários](./equipe-maior.png)
 
 **O que descobri**
 - Operações é a maior equipe da empresa (69 colaboradores).

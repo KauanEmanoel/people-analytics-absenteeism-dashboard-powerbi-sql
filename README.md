@@ -158,5 +158,4 @@ A consulta soma todas as horas perdidas por equipe.
 - R$ 134.879 de custo estimado do absenteísmo.
 - 8,60% de taxa de absenteísmo.
 
-## 🎯 Próxima etapa
-Com essas consultas prontas, os dados foram levados para o Power BI, onde criei um dashboard com KPIs, gráficos e filtros para facilitar a análise dos indicadores.
+

@@ -20,10 +20,10 @@ Neste cenário, a área de RH precisa acompanhar indicadores de absenteísmo par
 
 ## 🚀 Tecnologias utilizadas
 
-**Power BI**.
-**MySQL** para modelagem e criação do banco de dados.
-**PopSQL** para realizar consultas, acho o desigh mais intuitivo que o Workberch.
-**ChatGPT** para geração do dataset fictício utilizado no projeto.
+Power BI.
+MySQL para modelagem e criação do banco de dados.
+PopSQL para realizar consultas, acho o desigh mais intuitivo que o Workberch.
+ChatGPT para geração do dataset fictício utilizado no projeto.
 
 ---
 

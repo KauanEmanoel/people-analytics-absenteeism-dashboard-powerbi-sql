@@ -133,8 +133,8 @@ A consulta soma todos os registros de falta por equipe.
 ![Desafio 2 - Equipe com mais faltas](./faltas-equipe.png)
 
 **O que descobri**
-- Operações teve o maior número de faltas (115).
-- Financeiro ficou com o menor número de faltas (48).
+- **Operações** teve o maior número de faltas (115).
+- **Financeiro** ficou com o menor número de faltas (48).
 
 ---
 
@@ -144,8 +144,8 @@ A consulta calcula a proporção de faltas em relação ao total de colaboradore
 ![Desafio 3 - Taxa de faltas por equipe](./taxa-faltas-equipe.png)
 
 **O que descobri**
-- Dados apresentou a maior taxa de faltas (213,51%).
-- Operações teve muitas faltas em números absolutos, mas por ter mais colaboradores, sua taxa relativa é menor (166,67%).
+- **Dados** apresentou a maior taxa de faltas (213,51%).
+- **Operações** teve muitas faltas em números absolutos, mas por ter mais colaboradores, sua taxa relativa é menor (166,67%).
 
 ---
 
@@ -155,8 +155,8 @@ A consulta cria um ranking dos 10 colaboradores com mais horas perdidas.
 ![Desafio 4 - Top 10 colaboradores](./top10-funcionario-faltas.png)
 
 **O que descobri**
-- Bianca Gomes liderou o ranking, com 75 horas perdidas.
-- O Top 10 mostra quem teve maior impacto individual nas horas perdidas.
+- **Bianca Gomes** liderou o ranking, com 75 horas perdidas.
+- O **Top 10** mostra quem teve maior impacto individual nas horas perdidas.
 
 ---
 
@@ -166,8 +166,8 @@ A consulta soma todas as horas perdidas por equipe.
 ![Desafio 5 - Horas perdidas por equipe](./horas-perdidas-equipe.png)
 
 **O que descobri**
-- Operações perdeu mais horas de trabalho (2.069 horas).
-- Financeiro foi a equipe que menos perdeu horas (855 horas).
+- **Operações** perdeu mais horas de trabalho (2.069 horas).
+- **Financeiro** foi a equipe que menos perdeu horas (855 horas).
 
 ---
 

@@ -1,6 +1,6 @@
 # 📊 Dashboard de People Analytics - Análise de Absenteísmo
 
-Projeto de Business Intelligence criado para praticar **SQL, MySQL, Power BI e DAX** em um cenário de **People Analytics**.
+Projeto de Business Intelligence criado para praticar **SQL, MySQL & Power BI ** em um cenário de **People Analytics**.
 
 O projeto simula uma empresa fictícia chamada **TechNordeste Distribuidora**, uma distribuidora de tecnologia que possui **250 colaboradores** divididos entre as equipes de Operações, Dados, Marketing, RH, Financeiro e Suporte.
 

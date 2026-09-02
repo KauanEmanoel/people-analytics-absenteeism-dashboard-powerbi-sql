@@ -7,7 +7,7 @@ O objetivo foi analisar dados de presença de 250 colaboradores e transformar es
 - Power BI
 - MySQL Workbench - Banco de Dados 
 - PopSQL - editor do Banco de Dados
-- Chat GPT para criação do Dataset fictício para o MySQL. (Houve criação e modelagem de dados dentro do MySQL Workbench)
+- Chat GPT - para criação do Dataset fictício para o MySQL. (Houve criação e modelagem de dados dentro do MySQL Workbench)
 
 ---
 

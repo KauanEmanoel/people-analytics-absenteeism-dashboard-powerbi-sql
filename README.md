@@ -143,7 +143,7 @@ A consulta cria um ranking dos 10 colaboradores com mais horas perdidas.
 ### 5. Qual equipe perdeu mais horas de trabalho?
 A consulta soma todas as horas perdidas por equipe.
 
-![Desafio 5 - Horas perdidas por equipe](./top10-funcionario-faltas.png)
+![Desafio 5 - Horas perdidas por equipe](./faltas-equipe.png)
 
 **O que descobri**
 - Operações perdeu mais horas de trabalho (2.069 horas).

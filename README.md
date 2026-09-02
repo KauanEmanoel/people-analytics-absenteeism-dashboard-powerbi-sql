@@ -122,8 +122,8 @@ A consulta conta quantos colaboradores existem em cada equipe.
 ![Desf 1 - Equipe com mais funcionários](./equipe-maior.png)
 
 **O que descobri**
-- Operações é a maior equipe da empresa (69 colaboradores).
-- Financeiro é a menor equipe (29 colaboradores).
+- **Operações** é a maior equipe da empresa (69 colaboradores).
+- **Financeiro** é a menor equipe (29 colaboradores).
 
 ---
 

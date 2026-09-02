@@ -28,14 +28,14 @@ A consulta soma todos os registros de falta por equipe.
 
 **O que descobri**
 - Operações teve o maior número de faltas (115).
-- Dados ficou em segundo lugar (79).
+- Financeiro ficou com o menor número de faltas (48).
 
 ---
 
 ### 3. Qual a taxa de faltas por equipe?
 A consulta calcula a proporção de faltas em relação ao total de colaboradores de cada equipe.
 
-![Desf 3 - Taxa de faltas por equipe](images/sql_03_taxa_faltas.png)
+![Desafio 3 - Taxa de faltas por equipe](./taxa-faltas-equipe.png)
 
 **O que descobri**
 - Dados apresentou a maior taxa de faltas (213,51%).
@@ -46,7 +46,7 @@ A consulta calcula a proporção de faltas em relação ao total de colaboradore
 ### 4. Quais colaboradores perderam mais horas?
 A consulta cria um ranking dos 10 colaboradores com mais horas perdidas.
 
-![Desf 4 - Top 10 colaboradores](images/sql_04_top10_horas_perdidas.png)
+![Desafio 4 - Top 10 colaboradores](./top10-funcionario-faltas.png)
 
 **O que descobri**
 - Bianca Gomes liderou o ranking, com 75 horas perdidas.
@@ -57,11 +57,11 @@ A consulta cria um ranking dos 10 colaboradores com mais horas perdidas.
 ### 5. Qual equipe perdeu mais horas de trabalho?
 A consulta soma todas as horas perdidas por equipe.
 
-![Desf 5 - Horas perdidas por equipe](images/sql_05_horas_perdidas_equipe.png)
+![Desafio 5 - Horas perdidas por equipe](./top10-funcionario-faltas.png)
 
 **O que descobri**
 - Operações perdeu mais horas de trabalho (2.069 horas).
-- Suporte (1.274) e Marketing (1.259) também tiveram números altos.
+- Financeiro foi a equipe que menos perdeu horas (855 horas).
 
 ---
 

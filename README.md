@@ -32,7 +32,6 @@ ChatGPT para geração do dataset fictício utilizado no projeto.
 
 O dashboard reúne os principais indicadores de absenteísmo da empresa em uma única visão, permitindo acompanhar custos, horas perdidas, equipes mais impactadas e padrões de faltas.
 
-![Dashboard de People Analytics](./dashboard-completo.png)
 
 ## 💡 Principais insights da análise
 
